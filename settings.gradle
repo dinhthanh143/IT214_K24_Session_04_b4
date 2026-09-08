@@ -1,0 +1,9 @@
+rootProject.name = 'medicare-microservices-discovery'
+
+include 'discovery-server'
+include 'config-server'
+include 'patient-service'
+include 'doctor-service'
+include 'appointment-service'
+include 'medical-record-service'
+include 'pharmacy-service'
